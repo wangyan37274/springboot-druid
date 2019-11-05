@@ -1,7 +1,7 @@
 package com.wangyan.druid.core;
 
-import com.google.common.base.Strings;
 import com.wangyan.druid.annotation.Column;
+import org.assertj.core.util.Strings;
 
 import java.lang.reflect.Field;
 

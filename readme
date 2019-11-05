@@ -1,1 +1,4 @@
-项目介绍：spring-boot 整合 druid（cc 框架）
+项目介绍：
+    spring-boot 整合 druid（cc 框架）
+项目中的问题：
+    jar 包冲突
